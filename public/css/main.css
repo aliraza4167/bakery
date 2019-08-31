@@ -1,0 +1,14 @@
+/* CUSTOM CSS TO STYLE THE SITE */
+
+/* STYLING THE PRODUCTS PAGE */
+.product {
+    margin: 10px;
+}
+
+.nav-back {
+    color: #FA9B86;
+}
+
+.strike {
+    text-decoration: line-through;
+}
